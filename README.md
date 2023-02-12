@@ -21,7 +21,7 @@ To guarantee a fair comparison, the  participants do not know which comment is g
 
 To guarantee the comment evaluation  quality, we need each participant to review only 50 code snippets in half a day to avoid fatigue.
 
-**Overall, the details can be found in .**
+**Overall, the details can be found in 'Human.xlsx'.**
 
 #### C. Public Pre-trained Models
 
